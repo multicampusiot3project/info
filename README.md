@@ -1,5 +1,5 @@
 ## 👩‍💻 Team
-- **[김진우](https://github.com/tasddc1226)** 
+- **[김진우](https://github.com/jinu12)** 
   - 조장   
   - iot
 - **[정승희](https://github.com/SeungheeJeong)**
