@@ -103,3 +103,9 @@
 <img src="https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-C70D2C?style=plastic&logo=mysql&logoColor=white"> -->
 
+### 문서 보기
+
+<a href="https://docs.google.com/spreadsheets/d/1DY_rrN_rtfK2Bv8FmD04xFgqk4KdGOCzxC6TvhPFQII/edit#gid=66557486"> 3조 docs 문서 </a>
+<br>
+<a href="https://docs.google.com/document/d/1MJQDeohRRMUIbUwtoWam-tImV5h-cxHv/edit"> 3조 멀티 캠퍼스 양식 문서 </a>
+
