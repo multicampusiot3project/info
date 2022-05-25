@@ -92,7 +92,6 @@
 
 <a href="https://docs.google.com/spreadsheets/d/1DY_rrN_rtfK2Bv8FmD04xFgqk4KdGOCzxC6TvhPFQII/edit#gid=66557486"> 3조 docs 문서 </a>
 <br>
-<a href="https://docs.google.com/document/d/1MJQDeohRRMUIbUwtoWam-tImV5h-cxHv/edit"> 시각 장애인을 위한 쇼핑 서비스 </a>
 <br>
-<a href="https://docs.google.com/document/d/18k3Jxov5uYHp4ZWPsDLbZILB1AWevHwG0RAu7pj16Wc/edit?usp=sharing"> 청각장애인을 위한 스마트 글래스 </a>
+<a href="https://drive.google.com/drive/folders/1Ujl_JuMMgoPF_HWqt6JJlGG1bybrlwM7"> 삼성 드라이브 폴더 가기 </a>
 
