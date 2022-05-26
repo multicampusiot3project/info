@@ -136,7 +136,13 @@
   - 클라우드에 mqtt 서버를 만듬
   - aws s3 버킷 파일 데이터를 저장 
 
-  
+## 📋 아키텍처
+
+### 수어 영상 한글 번역기 아키텍처
+<img src="https://user-images.githubusercontent.com/73889507/170499360-2be49fdc-f640-4e39-a10c-5744201425bc.jpg">
+
+### 시각장애인 이마트 쇼핑 서비스 아키텍처
+ <img src="https://user-images.githubusercontent.com/73889507/170499573-e2352284-f83b-46db-9a19-13d9fd8987a7.jpg">
 <!-- ## 🛠 기술 스택
 <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=white">
