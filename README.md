@@ -27,7 +27,7 @@
  1. 💡 브레인스토밍  
  2. ✨ 주제 추출 
  3. 🗒️ 요구사항
- 4. 📋 아키텍처
+ 4. 📋 아키텍처 및 플로우 차트
 
 `프로젝트 진행 기간 2022.05.20 13:00 ~ 2022.06.27 18:00`
 
@@ -136,17 +136,27 @@
   - 클라우드에 mqtt 서버를 만듬
   - aws s3 버킷 파일 데이터를 저장 
 
-## 📋 아키텍처
+## 📋 아키텍처 및 플로우 차트
 
-### 수어 영상 한글 번역기 아키텍처
-<img src="https://user-images.githubusercontent.com/73889507/170499360-2be49fdc-f640-4e39-a10c-5744201425bc.jpg">
+### 시각장애인 쇼핑서비스
 
-### 시각장애인 이마트 쇼핑 서비스 아키텍처
- <img src="https://user-images.githubusercontent.com/73889507/170499573-e2352284-f83b-46db-9a19-13d9fd8987a7.jpg">
-<!-- ## 🛠 기술 스택
-<img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-C70D2C?style=plastic&logo=mysql&logoColor=white"> -->
+#### 아키텍처
+![시각장애인 이마트 쇼핑 서비스](https://user-images.githubusercontent.com/73889507/170643834-c1000d44-8ae7-4438-b49d-2941afc7aec2.jpg)
+
+#### 플로우 차트
+![시각장애인 쇼핑 서비스 플로우 차트](https://user-images.githubusercontent.com/73889507/170643643-3f31611e-8786-4ff5-ad41-dff25e1d687d.jpg)
+
+
+### 수어 한글 번역기 
+
+#### 아키텍처 
+
+![수어 영상 아키텍처](https://user-images.githubusercontent.com/73889507/170643768-09ead947-0897-4482-a103-d62c4949d152.jpg)
+
+
+#### 플로우 차트
+![수어 영상 플로우 차트 (1)](https://user-images.githubusercontent.com/73889507/170643528-acae9934-81d5-402f-91df-3ea78c341771.jpg)
+
 
 ### 문서 보기
 
