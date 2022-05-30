@@ -1,26 +1,29 @@
 ## 👩‍💻 Team
-- **[김진우](https://github.com/jinu12)** 
-  - 조장   
-  - iot
-- **[정승희](https://github.com/SeungheeJeong)**
-  - 부조장
-  - 빅데이터  
-- **[서지연](https://github.com/Yeony54)**
-  -  ai
-- **[김주영](https://github.com/jyakler)**
-  - 빅데이터
-- **[심혜주](https://github.com/hjst0223)**
-  - ai
-- **[최준용](https://github.com/jundragons)**
-  - 클라우드
-- **[김인후](https://github.com/InhuKim)**
-  - ai
-- **[이지희](https://github.com/2-Jihee)**
-  - ai 
-- **[강기범](https://github.com/paramore0)**
-  - iot 
-- **[정민수](https://github.com/yourms)**
-  - ai 
+
+- <a href="https://github.com/multicampusiot3project/iot"> IOT </a>
+
+  - **[김진우](https://github.com/jinu12)** 
+    - 전체 조장 및 iot 팀장   
+    - iot
+  - **[강기범](https://github.com/paramore0)**
+    - 팀원
+- <a href="https://github.com/multicampusiot3project/ai"> AI </a>
+
+  - **[김인후](https://github.com/InhuKim)**
+    - ai 팀장
+  - **[정민수](https://github.com/yourms)**
+    - ai 팀원
+  - **[심혜주](https://github.com/hjst0223)**
+    - ai 팀원
+  - **[서지연](https://github.com/Yeony54)**
+    - ai 팀원
+
+- <a href="https://github.com/multicampusiot3project/cloud"> 클라우드 </a>
+  - **[정승희](https://github.com/SeungheeJeong)**
+    - 부조장
+    - 빅데이터  
+  - **[김주영](https://github.com/jyakler)**
+    - 빅데이터
  
  ## 📚 목차
  
