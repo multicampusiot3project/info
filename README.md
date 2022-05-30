@@ -18,7 +18,7 @@
   - **[서지연](https://github.com/Yeony54)**
     - ai 팀원
 
-- <a href="https://github.com/multicampusiot3project/cloud"> 클라우드 </a>
+- <a href="https://github.com/multicampusiot3project/bigdata"> BigData </a>
   - **[정승희](https://github.com/SeungheeJeong)**
     - 부조장
     - 빅데이터  
