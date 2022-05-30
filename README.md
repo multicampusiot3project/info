@@ -20,7 +20,7 @@
 
 - <a href="https://github.com/multicampusiot3project/bigdata"> BigData </a>
   - **[정승희](https://github.com/SeungheeJeong)**
-    - 부조장
+    - 부조장 및 bigData 조장
     - 빅데이터  
   - **[김주영](https://github.com/jyakler)**
     - 빅데이터
