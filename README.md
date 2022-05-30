@@ -213,6 +213,7 @@
 
 <a href="https://docs.google.com/spreadsheets/d/1DY_rrN_rtfK2Bv8FmD04xFgqk4KdGOCzxC6TvhPFQII/edit#gid=66557486"> 3조 docs 문서 </a>
 <br>
+<a href="https://docs.google.com/spreadsheets/d/1rW45_AzOEOq-xhR0rkEWkgi-3Wvp15g9/edit#gid=1447991798"> 시각장애인 쇼핑서비스 문서 </a> <br>
 <br>
 <a href="https://drive.google.com/drive/folders/1Ujl_JuMMgoPF_HWqt6JJlGG1bybrlwM7"> 삼성 드라이브 폴더 가기 </a>
 
