@@ -298,7 +298,9 @@
 
 ![object_detector](https://user-images.githubusercontent.com/34851766/171771776-183e221c-c2a9-465b-a7b3-ce5076d30172.png)
 
+## 빅데이터 플로우 차트 
 
+![빅데이터 플로우차트](https://user-images.githubusercontent.com/49812691/171805300-643f4274-6199-4de5-8f16-7ec840d19670.PNG)
 
 ### 문서 보기
 
