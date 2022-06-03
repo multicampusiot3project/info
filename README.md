@@ -243,12 +243,18 @@
 
 ## 📋 아키텍처
 
-### 안드로이드
+### iot 플로우 차트
+
+![iot 플로우차트](https://user-images.githubusercontent.com/99372065/171769590-070f758a-f712-425c-bc76-2dcbff60eb6a.png)
+
+
+### 안드로이드 와이어 프레임
 
 ## 🛒 1. 전체 시나리오
 ### 1. 장바구니 내역 생성
 - 빅데이터 : 상품 카테고리 데이터 저장 후 장바구니 내역 상품의 카테고리 분류 진행
 - 고려 사항 : 테스트 데이터 설정
+![image](https://user-images.githubusercontent.com/52309288/171770105-18c850b5-04ab-4775-92ab-fe9899787df9.PNG)
 ### 2. 장바구니 내역에 따른 쇼핑 경로 생성
 - 빅데이터 : 매장 지도 정보 수집
 -  고려 사항: 상품 픽업 우선순위 / 최단 경로
@@ -257,7 +263,11 @@
 - AI : 최적 쇼핑 경로 생성, 장애물 회피
 - IoT : 위치 추적 - 3점측량법, 장애물 회피
 - 음성 안내 (TTS) : 경로 안내, 도착 후 해당 상품 소개
+![image](https://user-images.githubusercontent.com/52309288/171770108-36ac6b52-1b9a-458a-89e7-dc109f42653b.PNG)
+![image](https://user-images.githubusercontent.com/52309288/171770270-26ac4188-fade-4d25-ac15-360984267a0d.PNG)
 ### 4. 상품 촬영 ▪ 정보 제공
+![image](https://user-images.githubusercontent.com/52309288/171770110-4150bfa5-529f-48c0-a055-b01770971c8e.PNG)
+![image](https://user-images.githubusercontent.com/52309288/171770111-d2030e13-69cd-499f-ac04-f87751f7b603.PNG)
 ### 5. 앱 내에서 제스쳐로 구매 여부 결정
 - 고려 사항 :  음성 안내 + 제스쳐
 ### 6. 장바구니 내역 상품 모두 픽업 시 계산대 경로 안내
@@ -276,15 +286,6 @@
 4. 상세 설명 종료 
 5. 구매 결정 / 선택 취소
 
-# 1. 전체적인 시나리오
-![image](https://user-images.githubusercontent.com/52309288/171770105-18c850b5-04ab-4775-92ab-fe9899787df9.PNG)
-# 2. 장바구니 작성 시나리오
-![image](https://user-images.githubusercontent.com/52309288/171770108-36ac6b52-1b9a-458a-89e7-dc109f42653b.PNG)
-![image](https://user-images.githubusercontent.com/52309288/171770270-26ac4188-fade-4d25-ac15-360984267a0d.PNG)
-# 3. 상품 인식 시나리오
-![image](https://user-images.githubusercontent.com/52309288/171770110-4150bfa5-529f-48c0-a055-b01770971c8e.PNG)
-![image](https://user-images.githubusercontent.com/52309288/171770111-d2030e13-69cd-499f-ac04-f87751f7b603.PNG)
-
 ## 클라우드 아키텍처
 
 ![iotdataflow drawio](https://user-images.githubusercontent.com/73889507/171769213-5b158682-9834-4327-8aad-dbf9b377a3c9.png)
@@ -296,12 +297,6 @@
 ![classification_training_process](https://user-images.githubusercontent.com/46711633/171769606-c01405e2-5074-4859-b3f5-d205937ebd2e.jpg)
 
 ![object_detector](https://user-images.githubusercontent.com/34851766/171771776-183e221c-c2a9-465b-a7b3-ce5076d30172.png)
-
-#### 아키텍처
-![시각장애인 이마트 쇼핑 서비스](https://user-images.githubusercontent.com/73889507/170643834-c1000d44-8ae7-4438-b49d-2941afc7aec2.jpg)
-
-#### 플로우 차트
-![시각장애인 쇼핑 서비스 플로우 차트](https://user-images.githubusercontent.com/73889507/170643643-3f31611e-8786-4ff5-ad41-dff25e1d687d.jpg)
 
 
 
