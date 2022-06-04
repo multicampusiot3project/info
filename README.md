@@ -303,6 +303,13 @@
 
 ![빅데이터 플로우차트](https://user-images.githubusercontent.com/49812691/171805300-643f4274-6199-4de5-8f16-7ec840d19670.PNG)
 
+## mqtt subscirbe 테스트
+
+![mosquitto 확인](https://user-images.githubusercontent.com/73889507/171589056-b20856d9-6c76-49b8-9f30-cb3c174f4c92.PNG)
+
+* 안드로이드 tts 테스트도 
+
+
 ### 문서 보기
 
 <a href="https://docs.google.com/spreadsheets/d/1DY_rrN_rtfK2Bv8FmD04xFgqk4KdGOCzxC6TvhPFQII/edit#gid=66557486"> 3조 docs 문서 </a>
